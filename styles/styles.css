@@ -5,26 +5,24 @@
 
 /* styles.css */
 
-/* Add some basic styles for the navbar */
 .navbar {
-    background-color: hsl(301, 93%, 11%);
+    background-color: hsl(301, 70%, 72%);
     overflow: hidden;
   }
-  
-  /* Style the navbar links */
+
   .navbar a {
     float: left;
     display: block;
-    color: rgb(102, 7, 7);
+    color: rgb(24, 6, 6);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
-  /* Change the color of links on hover */
+  
   .navbar a:hover {
-    background-color: #8f0e0e;
-    color: rgb(75, 4, 4);
+    background-color: #e7e0e0;
+    color: rgb(139, 20, 20);
   }
   
 body {
